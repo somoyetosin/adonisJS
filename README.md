@@ -18,7 +18,7 @@ The Adonis JS looks like the Laravel Framework
 Use the adonis command to install the blueprint
 
 ```bash
-adonis new yardstick
+adonis new adonisapp
 ```
 
 or manually clone the repo and then run `npm install`.
